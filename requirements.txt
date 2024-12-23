@@ -1,0 +1,8 @@
+/Dependencies:
+Python 3.11.9
+MySQL 8.0.39
+/PythonModules:
+customtkinter 5.2.2 ( Create modern looking GUIs with Python )
+mysql-connector 2.2.9 ( MySQL driver written in Python )
+pillow 10.4.0 ( Python Imaging Library (Fork) )
+tk 0.1.0 ( TensorKit is a deep learning helper between Python and C++ )
